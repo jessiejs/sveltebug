@@ -1,0 +1,17 @@
+{
+  "name": "sveltebug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "rollup": "^4.1.5",
+    "rollup-plugin-svelte": "^7.1.6"
+  }
+}
